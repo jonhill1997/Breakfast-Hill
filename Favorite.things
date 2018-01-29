@@ -1,0 +1,31 @@
+<h1>
+These are my favorite things
+<h1/>
+<br />
+<p1>My movies</p1>
+<ol>
+<sub><li><a href="http://www.imdb.com/title/tt0068646/?ref_=nv_sr_1">The Godfather</a></li>
+  <li><a href="http://www.imdb.com/title/tt0468569/?ref_=fn_tt_tt_4">The Dark Knight</a></li>
+  <li><a href="http://www.imdb.com/title/tt0076759/?ref_=nv_sr_6">Star Wars: A New Hope</a></li></sub>
+</ol>
+<br />
+<p2> My foods </p2>
+<ol>
+<li>Seafood (specifically shrimp)</li>
+<li>Pasta of any kind</li>
+<li>A good bacon cheeseburger</li>
+</ol>
+<br />
+<p3> My shows </p3>
+<ol>
+<li><sub><a href="http://www.imdb.com/title/tt0386676/?ref_=nv_sr_1">The Office</a></li>
+<li><a href="http://www.imdb.com/title/tt3526078/?ref_=nv_sr_1">Schitt's Creek</a></li>
+<li><a href="http://www.imdb.com/title/tt3322312/?ref_=nv_sr_1">Daredevil</a></li></sub>
+</ol>
+<br />
+<p4> My music </p4>
+<ol>
+<li><A href="https://www.youtube.com/results?search_query=coldplay">Coldplay</A></li>
+<li><a href="https://www.youtube.com/results?search_query=logic">Logic</a></li>
+<li><a href="https://www.youtube.com/results?search_query=j.cole">J.Cole</a></li>
+</ol>
