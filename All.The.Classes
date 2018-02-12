@@ -1,0 +1,53 @@
+<table>
+  <tr>
+    <th>
+      <th scope="col">Monday</th>
+      <th scope="col">Tuesday</th>
+      <th scope="col">Wednesday</th>
+      <th scope="col">Thursday</th>
+      <th scope="col">Friday</th>
+      <tr>
+        <th scope="row">9 A.M.</th>
+        <td></td>
+        <td>INFO 325-01 12094 Intro to Data Comm. AGARWAL (3)</td>
+        <td></td>
+        <td>INFO 325-01 12094 Intro to Data Comm. AGARWAL (3)</td>
+        <tr>
+          <th scope="row">10 A.M.</th>
+          <td>PHYS 014-03 16481 Phys Lec for Sci/Engn GATICA (3)</td>
+          <td>PHIL 055-05 16727 Intro to Philosophy WILLIAMS (3)</td>
+          <td>PHYS 014-03 16481 Phys Lec for Sci/Engn GATICA (3)</td>
+          <td>PHIL 055-05 16727 Intro to Philosophy WILLIAMS (3)</td>
+          <td>ACCT 202-03 14469 Accounting Principles 2 MAYSE (3)</td>
+        </tr>
+        <tr>
+          <th scope="row">11 A.M.</th>
+          <td></td>
+          <td>INFO 330-01 12171 Database Management OWUNWANNE (3)</td>
+          <td></td>
+          <td>INFO 330-01 12171 Database Management OWUNWANNE (3)</td>
+        </tr>
+        <tr>
+          <th scope="row">12 P.M.</th>
+        </tr>
+        <tr>
+          <th scope="row">1 P.M.</th>
+        </tr>
+        <tr>
+          <th scope="row">2 P.M.</th>
+          <td></td>
+          <td>ACCT 202-03 14469 Accounting Principles 2 MAYSE (3)</td>
+          <td></td>
+          <td>ACCT 202-03 14469 Accounting Principles 2 MAYSE (3)</td>
+        </tr>
+        <tr>
+          <th scope="row">3 P.M.</th>
+        </tr>
+        <tr>
+          <th scope="row">4 P.M.</th>
+          <td>INFO 387-01 16537 Web Authoring HENLEY (3)</td>
+          <td></td>
+          <td>INFO 387-01 16537 Web Authoring HENLEY (3)</td>
+          <td></td>
+        </tr>
+</table>
