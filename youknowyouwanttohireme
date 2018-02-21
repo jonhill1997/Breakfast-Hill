@@ -1,0 +1,14 @@
+<p>Company name:
+  <input type="text" name="User name" size="15" maxlength="30" /> <input type="submit" nvalue="Enter" />
+</p>
+<p>Password: <input type="hidden" name="password" size="15" maxlength="30" /></p>
+<p>Position Offered:</p>
+<input type="text" name="Position" />
+<input type="submit" nvalue="Enter" />
+<p>Location of business:</p>
+<input type="text" name="Position" />
+<input type="submit" nvalue="Enter" />
+</br>
+</br>
+<p>Vacation days: <input type="number" name="number of days" size="15" maxlength="30" /></p> <input type="submit" nvalue="Enter" />
+<p>Salary: <input type="number" name="salary" size="15" maxlength="30" /></p> <input type="submit" nvalue="Enter" />
