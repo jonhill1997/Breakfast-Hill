@@ -1,0 +1,61 @@
+<html>
+<body>
+<h1>
+  My Top 3 genres (and their albums)
+</h1>
+<p>
+  I threw this website togehter so that everyone could know my favorite 3 genres, and additionaly my 3 favorite albums from each of those genres!
+</p>
+<ol>
+  <h2>
+    1. Alternative
+  </h2>
+</ol>
+<ol>
+  Imagine Dragons-Night Visions
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Night_Visions_Album_Cover.jpeg/220px-Night_Visions_Album_Cover.jpeg" alt="Night Visions" />
+<ol>
+  Coldplay-Mylo Xyloto
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/7/77/Myloxyloto.jpg" alt="Mylo Xyloto" />
+<ol>
+  One Republic-Native
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/9/96/OneRepublic_-_Native.png" alt="Native" />
+<ol>
+  <h2>
+    2. Rap
+  </h2>
+</ol>
+<ol>
+  J. Cole-2014 Forest Hills Drive
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg" alt="Forest Hills Drive" />
+<ol>
+  Kendrick Lamar-DAMN.
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" alt="DAMN." />
+<ol>
+  Logic-Bobby Tarantino
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c9/Logic_-_Bobby_Tarantino_%28album_cover%29.jpg" alt="Bobby Tarantino" />
+<ol>
+  <h2>
+    3. Rock
+  </h2>
+</ol>
+<ol>
+  Led Zepplin-Mothership
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Led_Zeppelin_-_Mothership.jpg" alt="Mothership" />
+<ol>
+  Queen-Made in Heaven
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/0/03/Madeinheaven.jpg" alt="Made in Heaven" />
+<ol>
+  AC/DC-Black Ice
+</ol>
+<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Black_ice_red.jpg" alt="Black Ice" />
+</body>
+</html>
