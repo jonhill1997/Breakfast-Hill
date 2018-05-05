@@ -1,0 +1,104 @@
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Jon's Place</title>
+
+    <style>
+      #course {
+        color: red;
+        font-size: large;
+      }
+
+      #info {
+        color: black;
+      }
+
+      h4 {
+        margin-left: 10px;
+      }
+
+      table {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Jon's Place</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="About.html">About</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+          <li class="active"><a href="History.html">History</a></li>
+          <li><a href="Importance.html">Importance</a></li>
+
+        </ul>
+      </div>
+
+    </nav>
+    <br/>
+
+
+    <p>
+      <h1>
+        History
+      </h1>
+      <h4>
+        The history of technology is the history of the invention of tools and techniques and is similar to other sides of the history of humanity. Technology can refer to methods ranging from as simple as language and stone tools to the complex genetic engineering
+        and information technology that has emerged since the 1980s. The term technology comes from the Greek word techne, meaning art and craft, and the word logos, meaning word and speech. It was first used to describe applied arts, but it is now used
+        to described advancements and changes that affects the environment around us.
+        </br>
+        </br>
+        New knowledge has enabled people to create new things, and conversely, many scientific endeavors are made possible by technologies which assist humans in traveling to places they could not previously reach, and by scientific instruments by which we study
+        nature in more detail than our natural senses allow.
+        </br>
+        </br>
+        Since much of technology is applied science, technical history is connected to the history of science. Since technology uses resources, technical history is tightly connected to economic history. From those resources, technology produces other resources,
+        including technological artifacts used in everyday life.
+        </br>
+        </br>
+        Technological change affects and is affected by, a society’s cultural traditions. It is a force for economic growth and a means to develop and project economic, political, military power and wealth.
+
+
+      </h4>
+    </p>
+
+
+
+
+    <div class="panel panel-default">
+
+      <div class="panel-footer">
+
+        <footer class="footer">
+          <div class="container text-left">
+            <small style="color:blue" class="copyright">Copyright &copy 2018 Jonathan Hill Limited.All Rights Reserved.</small>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-skype pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-google-plus pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-linkedin pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-twitter pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-facebook pull-right">  </small></a>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+
+</html>
