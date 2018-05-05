@@ -1,0 +1,102 @@
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Jon's Place</title>
+
+    <style>
+      #course {
+        color: red;
+        font-size: large;
+      }
+
+      #info {
+        color: black;
+      }
+
+      h4 {
+        margin-left: 10px;
+      }
+
+      table {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Jon's Place</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li class="active"><a href="About.html">About</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+          <li><a href="History.html">History</a></li>
+          <li><a href="Importance.html">Importance</a></li>
+
+        </ul>
+      </div>
+
+    </nav>
+    <br/>
+
+
+    <p>
+      <h1>
+        About
+      </h1>
+      <h4>
+        You want to know about me?
+        </br>
+        </br>
+        Very strange.
+        </br>
+        </br>
+        Well there’s not much to know. I am 20 years old attending Howard University and studying Computer Information Systems. I am a part of the Naval Reserve Officer Training Corps (NROTC) and upon graduation will commission in the U.S. Navy! I’ve always had
+        an interest in technology from a young age, admittedly most of it being video game related, but it grew into such a passion that I’ve always wanted to put more time into.
+        </br>
+        </br>
+        I hope that by starting this journey I can hopefully one day be able to review and inform you all on bleeding edge technology that will change the way we see and interact with the world around us. But for now I’ll settle on sharing what I know about technology
+        that I currently own!
+
+
+      </h4>
+    </p>
+
+
+
+
+    <div class="panel panel-default">
+
+      <div class="panel-footer">
+
+        <footer class="footer">
+          <div class="container text-left">
+            <small style="color:blue" class="copyright">Copyright &copy 2018 Jonathan Hill Limited.All Rights Reserved.</small>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-skype pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-google-plus pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-linkedin pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-twitter pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-facebook pull-right">  </small></a>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+
+</html>
