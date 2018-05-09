@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="">
+
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ===========================
+    THEME INFO
+    =========================== -->
+    <meta name="description" content="CVstrap is another Free minimal CV HTML theme by EvenFly built with Bootstrap 3.3.0. and released under CC-3.0 license.">
+    <meta name="keywords" content="curriculum vitae, cv, one page, onepage, bootstrap, responsive, resume, timeline, free cv">
+    <meta name="author" content="Mamun Srizon">
+
+    <!-- ===========================
+    SITE TITLE
+    =========================== -->
+    <title>Jon's Site</title>
+
+    <!-- ===========================
+    FAVICONS
+    =========================== -->
+    <link rel="icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-iphone.png" />
+
+    <!-- ===========================
+    STYLESHEETS
+    =========================== -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- ===========================
+    FONTS & ICONS
+    =========================== -->
+    <link href='//fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!--[if IE]>
+        <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!OTHER STUFF-->
+
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </head>
+
+  <body>
+    <!--HEADER-->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="index.html">Jon's Site</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="transcript.html">Transcript</a></li>
+          <li class="active"><a href="resume.html">Resume</a></li>
+
+        </ul>
+      </div>
+
+    </nav>
+
+
+    <div class="container">
+      <!-- ===========================
+        HEADER
+        ============================ -->
+
+
+
+      <head>
+        <style>
+          .links {
+            text-align: center
+          }
+
+          h2 {
+            text-align: left
+          }
+
+          h2 {
+            color: blue
+          }
+
+        </style>
+      </head>
+
+      <body>
+
+        <h1>
+          Jonathan Hill
+        </h1>
+        <span>772-643-4030 - 2205 4th st. NW, Washington, DC 20059 - <a href="mailto:jonhill1997@gmail.com">jonhill1997@gmail.com</a></span>
+        <h2 id="obj">
+          Objectives
+        </h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel facilisis nisi, a posuere nisl. Fusce posuere nec felis eu maximus. Curabitur ut vehicula nisi. Quisque eget massa varius, vehicula felis eget, dictum nisi. Nullam sit amet ipsum varius,
+          ornare neque ut, congue nibh. Nam rutrum tempus arcu ac accumsan. Etiam ultrices, leo vel malesuada porttitor, nibh nisl maximus neque, quis auctor massa ipsum vel massa. Morbi blandit mauris faucibus nisl mattis, sit amet rhoncus nisl blandit.
+          Quisque quis massa ut lorem eleifend feugiat ut sit amet lorem. Donec efficitur quam vitae risus dapibus, at iaculis arcu cursus.
+        </p>
+        <h2 id="exp">
+          Experience
+        </h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel facilisis nisi, a posuere nisl. Fusce posuere nec felis eu maximus. Curabitur ut vehicula nisi. Quisque eget massa varius, vehicula felis eget, dictum nisi. Nullam sit amet ipsum varius,
+          ornare neque ut, congue nibh. Nam rutrum tempus arcu ac accumsan. Etiam ultrices, leo vel malesuada porttitor, nibh nisl maximus neque, quis auctor massa ipsum vel massa. Morbi blandit mauris faucibus nisl mattis, sit amet rhoncus nisl blandit.
+          Quisque quis massa ut lorem eleifend feugiat ut sit amet lorem. Donec efficitur quam vitae risus dapibus, at iaculis arcu cursus.
+        </p>
+        <h2 id="edu">
+          Education
+        </h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel facilisis nisi, a posuere nisl. Fusce posuere nec felis eu maximus. Curabitur ut vehicula nisi. Quisque eget massa varius, vehicula felis eget, dictum nisi. Nullam sit amet ipsum varius,
+          ornare neque ut, congue nibh. Nam rutrum tempus arcu ac accumsan. Etiam ultrices, leo vel malesuada porttitor, nibh nisl maximus neque, quis auctor massa ipsum vel massa. Morbi blandit mauris faucibus nisl mattis, sit amet rhoncus nisl blandit.
+          Quisque quis massa ut lorem eleifend feugiat ut sit amet lorem. Donec efficitur quam vitae risus dapibus, at iaculis arcu cursus.
+        </p>
+        <h2 id="skl">
+          Skills
+        </h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel facilisis nisi, a posuere nisl. Fusce posuere nec felis eu maximus. Curabitur ut vehicula nisi. Quisque eget massa varius, vehicula felis eget, dictum nisi. Nullam sit amet ipsum varius,
+          ornare neque ut, congue nibh. Nam rutrum tempus arcu ac accumsan. Etiam ultrices, leo vel malesuada porttitor, nibh nisl maximus neque, quis auctor massa ipsum vel massa. Morbi blandit mauris faucibus nisl mattis, sit amet rhoncus nisl blandit.
+          Quisque quis massa ut lorem eleifend feugiat ut sit amet lorem. Donec efficitur quam vitae risus dapibus, at iaculis arcu cursus.
+        </p>
+      </body>
+
+
+
+
+      <!-- ===========================
+    FOOTER
+    =========================== -->
+      <div class="panel panel-default">
+
+        <div class="panel-footer">
+
+          <footer class="footer">
+            <div class="container text-left">
+              <small style="color:blue" class="copyright">Copyright &copy 2018 Jonathan Hill Limited.All Rights Reserved.</small>
+              <a href="#"><small style="color:grey" class="fa fa-lg fa-skype pull-right">  </small></a>
+              <a href="#"><small style="color:grey" class="fa fa-lg fa-google-plus pull-right">  </small></a>
+              <a href="#"><small style="color:grey" class="fa fa-lg fa-linkedin pull-right">  </small></a>
+              <a href="#"><small style="color:grey" class="fa fa-lg fa-twitter pull-right">  </small></a>
+              <a href="#"><small style="color:grey" class="fa fa-lg fa-facebook pull-right">  </small></a>
+            </div>
+            <!--End container-->
+          </footer>
+        </div>
+      </div>
+
+      <!--necessary scripts and plugins-->
+
+  </body>
+
+</html>
