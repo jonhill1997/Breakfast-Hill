@@ -1,0 +1,70 @@
+<!doctype html>
+	<html lang="en">
+	  <head>
+	  <meta charset="utf-8"> 
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+	 
+	 <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	 <title>Jon's Place</title>
+	  
+	  
+	    </head>
+	  <body>
+	     <nav class="navbar navbar-default"
+	          >
+	  <div class="container-fluid">
+	    <div class="navbar-header">
+	      <a class="navbar-brand" href="index.html">Jon's Place</a>
+	    </div>
+	    <ul class="nav navbar-nav">
+	      <li role="presentation" class="active"><a href="index.html">Home</a></li>
+	      <li role="presentation"><a href="transcript.html">Transcript</a></li>
+	      <li role="presentation"><a href="resume.html">Resume</a></li>
+	      
+	    </ul>
+	  </div>
+	 
+	</nav>
+	
+
+	
+
+	<div class="container" >
+	  <div class="jumbotron" >
+	    <h1>This is my website</h1> 
+	    <p>Hey Professor Henley.
+	    Please put an A in bisonweb</p> 
+	  </div>
+	  <p>Hope this is good enough for you to change my grade.</p> 
+	   
+	</div>
+	
+
+	
+
+	<div class="panel panel-default">
+	 
+	  <div class="panel-footer">
+	 
+	<footer class="footer">
+	        <div class="container text-left">
+	            <small style="color:blue" class="copyright">Copyright &copy 2018 Jonathan Hil Limited.All Rights Reserved.</small>
+	            <a href="#"><small style="color:grey" class="fa fa-lg fa-skype pull-right">  </small></a>
+	            <a href="#"><small style="color:grey" class="fa fa-lg fa-google-plus pull-right">  </small></a>
+	            <a href="#"><small style="color:grey" class="fa fa-lg fa-linkedin pull-right">  </small></a>
+	            <a href="#"><small style="color:grey" class="fa fa-lg fa-twitter pull-right">  </small></a>
+	            <a href="#"><small style="color:grey" class="fa fa-lg fa-facebook pull-right">  </small></a>
+	        </div>  <!--End container-->
+	    </footer>
+	    </div> </div>
+	  </body>
+	</html>
